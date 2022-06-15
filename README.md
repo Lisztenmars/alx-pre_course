@@ -1,1 +1,1 @@
-Alx is the place to be if you realy want learn software engineering
+Alx is the place to be if you realy want to learn software engineering
